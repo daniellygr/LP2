@@ -1,1 +1,1 @@
-# Exercícios da disciplina de Lógica de Programação II da FATEC
+Exercícios da disciplina de Lógica de Programação II da FATEC
