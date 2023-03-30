@@ -1,0 +1,11 @@
+C:\Users\Danielly Rocha\source\repos\PVolume\PVolume\bin\Debug\PVolume.exe.config
+C:\Users\Danielly Rocha\source\repos\PVolume\PVolume\bin\Debug\PVolume.exe
+C:\Users\Danielly Rocha\source\repos\PVolume\PVolume\bin\Debug\PVolume.pdb
+C:\Users\Danielly Rocha\source\repos\PVolume\PVolume\obj\Debug\PVolume.csproj.AssemblyReference.cache
+C:\Users\Danielly Rocha\source\repos\PVolume\PVolume\obj\Debug\PVolume.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danielly Rocha\source\repos\PVolume\PVolume\obj\Debug\PVolume.Form1.resources
+C:\Users\Danielly Rocha\source\repos\PVolume\PVolume\obj\Debug\PVolume.Properties.Resources.resources
+C:\Users\Danielly Rocha\source\repos\PVolume\PVolume\obj\Debug\PVolume.csproj.GenerateResource.cache
+C:\Users\Danielly Rocha\source\repos\PVolume\PVolume\obj\Debug\PVolume.csproj.CoreCompileInputs.cache
+C:\Users\Danielly Rocha\source\repos\PVolume\PVolume\obj\Debug\PVolume.exe
+C:\Users\Danielly Rocha\source\repos\PVolume\PVolume\obj\Debug\PVolume.pdb
