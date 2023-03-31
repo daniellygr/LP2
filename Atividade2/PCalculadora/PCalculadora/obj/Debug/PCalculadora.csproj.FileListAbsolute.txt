@@ -1,0 +1,11 @@
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\PTestesEventos\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.AssemblyReference.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\PTestesEventos\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\PTestesEventos\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Form1.resources
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\PTestesEventos\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Properties.Resources.resources
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\PTestesEventos\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.GenerateResource.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\PTestesEventos\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\PTestesEventos\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe.config
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\PTestesEventos\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\PTestesEventos\PCalculadora\PCalculadora\bin\Debug\PCalculadora.pdb
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\PTestesEventos\PCalculadora\PCalculadora\obj\Debug\PCalculadora.exe
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\PTestesEventos\PCalculadora\PCalculadora\obj\Debug\PCalculadora.pdb
