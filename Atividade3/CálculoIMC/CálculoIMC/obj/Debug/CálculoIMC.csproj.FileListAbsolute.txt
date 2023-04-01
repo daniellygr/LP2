@@ -1,0 +1,11 @@
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade3\CálculoIMC\CálculoIMC\bin\Debug\CálculoIMC.exe.config
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade3\CálculoIMC\CálculoIMC\bin\Debug\CálculoIMC.exe
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade3\CálculoIMC\CálculoIMC\bin\Debug\CálculoIMC.pdb
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade3\CálculoIMC\CálculoIMC\obj\Debug\CálculoIMC.csproj.AssemblyReference.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade3\CálculoIMC\CálculoIMC\obj\Debug\CálculoIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade3\CálculoIMC\CálculoIMC\obj\Debug\CálculoIMC.Form1.resources
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade3\CálculoIMC\CálculoIMC\obj\Debug\CálculoIMC.Properties.Resources.resources
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade3\CálculoIMC\CálculoIMC\obj\Debug\CálculoIMC.csproj.GenerateResource.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade3\CálculoIMC\CálculoIMC\obj\Debug\CálculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade3\CálculoIMC\CálculoIMC\obj\Debug\CálculoIMC.exe
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade3\CálculoIMC\CálculoIMC\obj\Debug\CálculoIMC.pdb
