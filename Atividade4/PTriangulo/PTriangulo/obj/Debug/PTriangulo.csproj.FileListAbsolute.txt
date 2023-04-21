@@ -1,0 +1,11 @@
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade4\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe.config
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade4\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade4\PTriangulo\PTriangulo\bin\Debug\PTriangulo.pdb
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.AssemblyReference.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Form1.resources
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Properties.Resources.resources
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.GenerateResource.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.exe
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.pdb
