@@ -1,0 +1,13 @@
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.csproj.AssemblyReference.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.pdb
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.frmHorista.resources
