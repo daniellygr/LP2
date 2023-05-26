@@ -1,0 +1,10 @@
+C:\Users\0030482223027\Documents\PCotacao\PCotacao\bin\Debug\PCotacao.exe.config
+C:\Users\0030482223027\Documents\PCotacao\PCotacao\bin\Debug\PCotacao.exe
+C:\Users\0030482223027\Documents\PCotacao\PCotacao\bin\Debug\PCotacao.pdb
+C:\Users\0030482223027\Documents\PCotacao\PCotacao\obj\Debug\PCotacao.csprojAssemblyReference.cache
+C:\Users\0030482223027\Documents\PCotacao\PCotacao\obj\Debug\PCotacao.Properties.Resources.resources
+C:\Users\0030482223027\Documents\PCotacao\PCotacao\obj\Debug\PCotacao.csproj.GenerateResource.cache
+C:\Users\0030482223027\Documents\PCotacao\PCotacao\obj\Debug\PCotacao.csproj.CoreCompileInputs.cache
+C:\Users\0030482223027\Documents\PCotacao\PCotacao\obj\Debug\PCotacao.exe
+C:\Users\0030482223027\Documents\PCotacao\PCotacao\obj\Debug\PCotacao.pdb
+C:\Users\0030482223027\Documents\PCotacao\PCotacao\obj\Debug\PCotacao.Prova.resources
