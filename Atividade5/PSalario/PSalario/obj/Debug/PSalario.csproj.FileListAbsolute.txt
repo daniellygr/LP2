@@ -1,0 +1,11 @@
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade5\PSalario\PSalario\bin\Debug\PSalario.exe.config
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade5\PSalario\PSalario\bin\Debug\PSalario.exe
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade5\PSalario\PSalario\bin\Debug\PSalario.pdb
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade5\PSalario\PSalario\obj\Debug\PSalario.csproj.AssemblyReference.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade5\PSalario\PSalario\obj\Debug\PSalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade5\PSalario\PSalario\obj\Debug\PSalario.Form1.resources
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade5\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade5\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade5\PSalario\PSalario\obj\Debug\PSalario.csproj.CoreCompileInputs.cache
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade5\PSalario\PSalario\obj\Debug\PSalario.exe
+C:\Users\Danielly Rocha\Documents\2SEM\LP2\Atividade5\PSalario\PSalario\obj\Debug\PSalario.pdb
